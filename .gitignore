@@ -1,0 +1,4 @@
+
+svdb/vuln/log.txt
+svdb/*/*.sqlite
+*.pyc
