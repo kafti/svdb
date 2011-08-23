@@ -1,3 +1,13 @@
+#-------------------------------------------------------------------------------
+# Copyright (c) 2011, Kafti team
+# 
+# Released under the MIT license. See the LICENSE file for details.
+#-------------------------------------------------------------------------------
+
+"""
+Staff for working with Common Vulnerability Scoring System.
+See http://www.first.org/cvss/
+"""
 
 
 class SECURITY_PROTECTION_VALUES(object):

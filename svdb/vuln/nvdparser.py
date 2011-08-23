@@ -1,3 +1,11 @@
+#-------------------------------------------------------------------------------
+# Copyright (c) 2011, Kafti team
+# 
+# Released under the MIT license. See the LICENSE file for details.
+#-------------------------------------------------------------------------------
+
+"""Module for parsing NVD xml files"""
+
 import datetime
 import logging
 import os

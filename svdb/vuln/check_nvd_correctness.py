@@ -1,3 +1,11 @@
+#-------------------------------------------------------------------------------
+# Copyright (c) 2011, Kafti team
+# 
+# Released under the MIT license. See the LICENSE file for details.
+#-------------------------------------------------------------------------------
+
+"""Script for checking correctness of NVD data"""
+
 import logging
 import time
 from lxml import etree

@@ -1,3 +1,11 @@
+#-------------------------------------------------------------------------------
+# Copyright (c) 2011, Kafti team
+# 
+# Released under the MIT license. See the LICENSE file for details.
+#-------------------------------------------------------------------------------
+
+"""Staff for working with CPE identifiers. See http://cpe.mitre.org."""
+
 import re
 
 class CPEID(object):

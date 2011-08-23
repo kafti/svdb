@@ -1,3 +1,11 @@
+#-------------------------------------------------------------------------------
+# Copyright (c) 2011, Kafti team
+# 
+# Released under the MIT license. See the LICENSE file for details.
+#-------------------------------------------------------------------------------
+
+"""Staff for working with CVE Identifiers. See http://cve.mitre.org."""
+
 import re
 
 
